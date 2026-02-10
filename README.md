@@ -12,6 +12,7 @@ To compile the simulation, you need a C compiler (like `gcc`). The code relies o
 
 ```bash
 gcc -o simulation main.c -lm
+```
 
 ## Authors
 Yun-Ju Chen and Charles E. Sing
